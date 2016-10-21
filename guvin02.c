@@ -16,6 +16,7 @@ printf("\n the given input is vowel");
 else if(input=='u')
 printf("\n the given input is vowel");
 else
-printf("\n the given input is not a vowel");
+printf("\n the given input is constant");
 getch();
 }
+
